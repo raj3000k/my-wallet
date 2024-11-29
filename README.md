@@ -15,5 +15,8 @@ The frontend has been completed with a fully functional and interactive wallet U
 - Transaction handling
 - Payment processing
 
+# App Demo:
 
-   
+
+https://github.com/user-attachments/assets/43fdbb1c-c427-4b3f-8861-cb17f16a395c
+
