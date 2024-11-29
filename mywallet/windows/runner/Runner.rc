@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "mywallet" "\0"
+            VALUE "CompanyName", "com.roaakdm.wallet.app.workshop" "\0"
+            VALUE "FileDescription", "wallet_app_workshop" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "mywallet" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "mywallet.exe" "\0"
-            VALUE "ProductName", "mywallet" "\0"
+            VALUE "InternalName", "wallet_app_workshop" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.roaakdm.wallet.app.workshop. All rights reserved." "\0"
+            VALUE "OriginalFilename", "wallet_app_workshop.exe" "\0"
+            VALUE "ProductName", "wallet_app_workshop" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
